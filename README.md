@@ -32,4 +32,4 @@ Jest was used to ensure the functionality of the platform
 - I used the latested Bootstraps and Fontawesome for styling.
 - Inquier is used to gather user input from the command line.
 - I utilized mySQL for some element
-- Jest was used for back en testing
+- Jest was used for back end testing
