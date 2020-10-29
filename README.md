@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-# Installation
+# Install
 
 - Download this folder onto your own computer by fusing the "Clone or download" button on github.
 
@@ -8,7 +8,7 @@
 
 - Perform the run the program by calling node app.js from the commandline.
 
-# Functionality
+# Functions
 
 ## User Input on Command Line
 
@@ -18,7 +18,7 @@ A team summary will be generated from user input. Using the command line, the us
 
 If the user does not met necessary requirements when inputting employee data, that employee's data is not saved and the user is prompted to re-enter the data in the correct format.
 
-## HTML Output
+## HTML Functionality
 
 This application stores the information for each employee as an object, using the object constructors in the library javascript files, and then use the object to make individual html cards. Once all cards are generated, a single html document is written and saved in the output folder, displaying all of the employees information.
 
