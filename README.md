@@ -1,7 +1,5 @@
 # Team-Profile-Generator
 
-https://github.com/SiyandaMaykiso/Team-Profile-Generator/blob/main/Screenshot.png
-
 # Install
 
 - Download this folder onto your own computer by fusing the "Clone or download" button on github.
